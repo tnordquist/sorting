@@ -41,10 +41,5 @@ public class SearchTimes {
     System.out.printf("Time elapsed for binary search: %.3f seconds%n",
         (endTime - startTime) / 1000d);
   }
-
 }
-
-
-
-
 
